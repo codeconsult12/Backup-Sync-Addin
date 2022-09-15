@@ -1,0 +1,15 @@
+C:\Users\Aneeq\source\repos\SyncAddin-Config\SyncAddin-Config\bin\Debug\SyncAddin-Config.dll.config
+C:\Users\Aneeq\source\repos\SyncAddin-Config\SyncAddin-Config\bin\Debug\SyncAddin-Config.dll
+C:\Users\Aneeq\source\repos\SyncAddin-Config\SyncAddin-Config\bin\Debug\SyncAddin-Config.pdb
+C:\Users\Aneeq\source\repos\SyncAddin-Config\SyncAddin-Config\bin\Debug\SyncAddin-Config.dll.manifest
+C:\Users\Aneeq\source\repos\SyncAddin-Config\SyncAddin-Config\bin\Debug\SyncAddin-Config.vsto
+C:\Users\Aneeq\source\repos\SyncAddin-Config\SyncAddin-Config\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Aneeq\source\repos\SyncAddin-Config\SyncAddin-Config\obj\Debug\SyncAddin_Config.ManageTaskPaneRibbon.resources
+C:\Users\Aneeq\source\repos\SyncAddin-Config\SyncAddin-Config\obj\Debug\SyncAddin_Config.Properties.Resources.resources
+C:\Users\Aneeq\source\repos\SyncAddin-Config\SyncAddin-Config\obj\Debug\SyncAddin_Config.TaskPaneControl.resources
+C:\Users\Aneeq\source\repos\SyncAddin-Config\SyncAddin-Config\obj\Debug\SyncAddin-Config.csproj.GenerateResource.cache
+C:\Users\Aneeq\source\repos\SyncAddin-Config\SyncAddin-Config\obj\Debug\SyncAddin-Config.csproj.CoreCompileInputs.cache
+C:\Users\Aneeq\source\repos\SyncAddin-Config\SyncAddin-Config\obj\Debug\SyncAddin-Config.csproj.CopyComplete
+C:\Users\Aneeq\source\repos\SyncAddin-Config\SyncAddin-Config\obj\Debug\SyncAddin-Config.dll
+C:\Users\Aneeq\source\repos\SyncAddin-Config\SyncAddin-Config\obj\Debug\SyncAddin-Config.pdb
+C:\Users\Aneeq\source\repos\SyncAddin-Config\SyncAddin-Config\obj\Debug\SyncAddin-Config.csprojAssemblyReference.cache
